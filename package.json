@@ -7,7 +7,7 @@
     "react-dom": "^15.6.1",
     "react-scripts": "0.9.5"
   },
-  "homepage": "http://lycfxy.github.io/react-local/build",
+  "homepage": "https://lycfxy.github.io/react-local/build",
   "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
